@@ -1,2 +1,2 @@
-# MY CODES TO CREATE TOOLS AND LEARNING PYTHON
+# My codes to create tools and learning Python
 # By Carine Constantino
