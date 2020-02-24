@@ -6,8 +6,8 @@
 #   Nome:           Header HTTP Security                     #
 #   Descrição:      Avaliação de Segurança do Cabeçalho HTTP #
 #   Autor:          Carine Constantino                       #
-#   Versão:         1.4                                      #
-#   Data:           11/02/2020                               #
+#   Versão:         1.0                                      #
+#   Data:           24/02/2020                               #
 #   Python Version: 3.7                                      #
 #   Função:         Ferramenta para avaliar a segurança      #
 #                   do cabeçalho HTTP de URL's fornecidas    #
