@@ -3,13 +3,13 @@
 ##############################################################
 #   Repositorio:    Security Tool                            #
 #   Nome:           Cookie HTTP Security                     #
-#   DescriÁ„o:      AvaliaÁ„o de SeguranÁa do Cookie HTTP    #
+#   Descri√ß√£o:      Avalia√ß√£o de Seguran√ßa do Cookie HTTP    #
 #   Autor:          Carine Constantino                       #           
-#   Vers„o:         1.0                                      #
+#   Vers√£o:         1.0                                      #
 #   Data:           22/09/2019                               #
 #   Python Version: 2.7                                      #
-#   FunÁ„o:         Ferramenta para avaliar a seguranÁa      #
-#                   dos cookies no cabeÁalho HTTP            # 
+#   Fun√ß√£o:         Ferramenta para avaliar a seguran√ßa      #
+#                   dos cookies no cabe√ßalho HTTP            # 
 ##############################################################
 #
 
@@ -30,7 +30,7 @@ def Request():
     global url
 
     print ('=============================================\n')
-    print ('An·lise dos cookies de sess„o da aplicaÁ„o\n')
+    print ('An√°lise dos cookies de sess√£o da aplica√ß√£o\n')
     print ('=============================================')
     
     request = requests.get(url)
