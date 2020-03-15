@@ -6,6 +6,7 @@ The goal is to facilitate the day-to-day life of security professionals.
 **Repository Structure**
 
 - scan
+- scripts_diversos
 
 ## Authors
 
