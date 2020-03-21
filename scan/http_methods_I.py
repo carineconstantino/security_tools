@@ -35,7 +35,7 @@ print('-------------------------------------------------------------')
 
 program_name = argparse.ArgumentParser(description = 'Scan HTML')
 url_entrada = program_name.add_argument('--url', action='store', dest='url',
-                                         required = True, help='Informe uma URL para testar os métodos HTTP habilitados na página web')
+                                         required = True, help='Informe uma URL para testar os métodos HTTP habilitados no servidor web')
 
 argumentos_parser = program_name.parse_args()
 url = argumentos_parser.url 
