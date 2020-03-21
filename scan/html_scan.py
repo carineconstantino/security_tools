@@ -24,7 +24,7 @@ import argparse
 print('-------------------------------------------------------------')
 desenho  = Figlet(font='eftiwall')
 banner_desenho = desenho.renderText('rtz')
-fonte = Figlet(font='contessa')
+fonte = Figlet(font='kban')
 banner_fonte = fonte.renderText('Scan-Py')
 
 print(banner_desenho)
