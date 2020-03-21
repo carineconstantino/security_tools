@@ -1,1 +1,1 @@
-![scanpylogo](https://user-images.githubusercontent.com/53983340/77217804-fc49f280-6b03-11ea-8217-52a281726c15.jpg)
+![scanpylogo](https://user-images.githubusercontent.com/53983340/77218250-26051880-6b08-11ea-9e2b-befadf7c0b62.jpg)
