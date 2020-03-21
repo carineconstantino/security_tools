@@ -32,10 +32,6 @@ print('-------------------------------------------------------------')
 print('Create By: Carine Constantino - constantino.seginfo@gmail.com')
 print('-------------------------------------------------------------')
 
-#print("-------------------------------------------------------------")
-#print("DIGITE A URL COMPLETA\n")
-#url = input('URL SCAN: ')
-
 program_name = argparse.ArgumentParser(description = 'Scan Header HTTP')
 url_entrada = program_name.add_argument('--url', action='store', dest='url',
                                          required = True, help='Informe uma URL para testar a segurança do cabeçalho HTTP')
