@@ -20,7 +20,7 @@
    ls -l 
  ```
  
- 3. Chosse a ---url command, set your target and execute a scan: 
+ 3. Chosse --url command, set your target and execute a scan: 
  
  ```
    python3 html_scan.py --url <https://example.com>  
@@ -28,4 +28,4 @@
  
  ## Help
  
-All Scanpy tools have only two command option (for now!!) that is `---url` and `---help`  
+All Scanpy tools have only two command option (for now!!) that is `--url` and `--help`  
