@@ -1,18 +1,18 @@
 #!usr/bin/env python
 
 #
-##############################################################
-#   Repositorio:    Security Tool                            #
-#   Nome:           Header HTTP Security                     #
-#   Descrição:      Avaliação de Segurança do Cabeçalho HTTP #
-#   Autor:          Carine Constantino                       #
-#   Versão:         1.4                                      #
-#   Data:           25/02/2020                               #
-#   Python Version: 3.7                                      #
-#   Função:         Ferramenta para avaliar a segurança      #
-#                   do cabeçalho HTTP de URL's fornecidas    #
-#                   em lote através de arquivo .txt          # 
-##############################################################
+#################################################################
+#   Repositorio:    Security Tool                               #
+#   Nome:           scan_header_http_02                         #
+#   Descrição:      Avaliação de Segurança do Cabeçalho HTTP    #
+#   Autor:          Carine Constantino                          #
+#   Versão:         1.4                                         #
+#   Data:           25/02/2020                                  #
+#   Python Version: 3.7                                         #
+#   Função:         Ferramenta para avaliar a segurança         #
+#                   do cabeçalho HTTP de URL's fornecidas       #
+#                   em lote através de arquivo .txt             #   
+#################################################################
 #
 
 import re
