@@ -1,17 +1,17 @@
 #!/usr/bin/env python
 
 #
-##############################################################
-#   Repositorio:    Security Tool                            #
-#   Nome:           Header HTTP Security                     #
-#   Descrição:      Avaliação de Segurança do Cabeçalho HTTP #
-#   Autor:          Carine Constantino                       #
-#   Versão:         2.0                                      #
-#   Data:           21/03/2020                               #
-#   Python Version: 3.6                                      #
-#   Função:         Ferramenta para avaliar a segurança      #
-#                   do cabeçalho HTTP de uma URL específica  #
-##############################################################
+#################################################################
+#   Repositorio:    Security Tool                               #
+#   Nome:           scan_header_http_01                         #
+#   Descrição:      Avaliação de Segurança do Cabeçalho HTTP    #
+#   Autor:          Carine Constantino                          #
+#   Versão:         2.0                                         #
+#   Data:           21/03/2020                                  #
+#   Python Version: 3.6                                         #
+#   Função:         Ferramenta para avaliar a segurança         #
+#                   do cabeçalho HTTP de uma URL específica     #
+#################################################################
 #
 
 import requests
@@ -32,14 +32,9 @@ print('-------------------------------------------------------------')
 print('Create By: Carine Constantino - constantino.seginfo@gmail.com')
 print('-------------------------------------------------------------')
 
-#print("-------------------------------------------------------------")
-#print("DIGITE A URL COMPLETA\n")
-#url = input('URL SCAN: ')
-
 program_name = argparse.ArgumentParser(description = 'Scan Header HTTP')
 url_entrada = program_name.add_argument('--url', action='store', dest='url',
                                          required = True, help='Informe uma URL para testar a segurança do cabeçalho HTTP')
-
 argumentos_parser = program_name.parse_args()
 url = argumentos_parser.url
 
