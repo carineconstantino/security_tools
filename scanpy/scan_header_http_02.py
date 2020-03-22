@@ -24,12 +24,12 @@ print('-------------------------------------------------------------')
 desenho  = Figlet(font='eftiwall')
 banner_desenho = desenho.renderText('rtz')
 fonte = Figlet(font='contessa')
-banner_fonte = fonte.renderText('Scan-Py')
+banner_fonte = fonte.renderText('Scan HTTP Header')
 
 print(banner_desenho)
 print(banner_fonte)
 print('-------------------------------------------------------------')
-print('Create By: Carine Constantino - constantino.seginfo@gmail.com')
+print('Create By: Carine Constantino - carine.constantino@hotmail.com')
 print('-------------------------------------------------------------')
 
 
