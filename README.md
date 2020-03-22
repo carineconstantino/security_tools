@@ -29,4 +29,4 @@ Run and save time to drink a coffe !!
 ## Authors
 
 * **Carine Constantino** 
-* **Contatcs: carine.constantino@hotmail.com**
+* **Contatc: carine.constantino@hotmail.com**
