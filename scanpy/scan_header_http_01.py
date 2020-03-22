@@ -29,7 +29,7 @@ banner_fonte = fonte.renderText('Scan HTTP Headers')
 print(banner_desenho)
 print(banner_fonte)
 print('-------------------------------------------------------------')
-print('Create By: Carine Constantino - constantino.seginfo@gmail.com')
+print('Create By: Carine Constantino - carine.constantino@hotmail.com')
 print('-------------------------------------------------------------')
 
 program_name = argparse.ArgumentParser(description = 'Scan HTTP Header')
