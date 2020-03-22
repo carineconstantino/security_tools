@@ -15,7 +15,7 @@
    ls -l 
  ```
  
- 3. Chosse a url and execute a scan like html_scan.py example: 
+ 3. Chosse a ---url command, set your target and execute a scan: 
  
  ```
    python3 html_scan.py --url <https://example.com>  
