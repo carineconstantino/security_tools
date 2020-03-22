@@ -32,7 +32,7 @@ print('-------------------------------------------------------------')
 print('Create By: Carine Constantino - constantino.seginfo@gmail.com')
 print('-------------------------------------------------------------')
 
-program_name = argparse.ArgumentParser(description = 'Scan Header HTTP')
+program_name = argparse.ArgumentParser(description = 'Scan HTTP Header')
 url_entrada = program_name.add_argument('--url', action='store', dest='url',
                                          required = True, help='Informe uma URL para testar a segurança do cabeçalho HTTP')
 argumentos_parser = program_name.parse_args()
