@@ -1,7 +1,14 @@
 # Security Tools
 
 Python scripts to automate security assessment tasks in web applications.
+
+## Objective
+
 The goal is to facilitate the day-to-day life of security professionals.
+
+
+## Philosophy
+
 Run and salve time to drink a coffe !! 
 
 ### Prerequisites
