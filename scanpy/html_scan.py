@@ -1,19 +1,19 @@
 #!/usr/bin/env python
 
-###############################################################
-#   Repositorio:    Security Tool                             #
-#   Nome:           Scan HTML                                 #
-#   Descrição:      Realiza scan no HTML                      #
-#   Autor:          Carine Constantino                        #
-#   Versão:         2.0                                       #
-#   Data:           19/03/2020                                #
-#   Python Version: 3.7                                       #
-#   Função:         Ferramenta para fazer scan no código HTML #  
-#                   e encontrar links, diretórios e scripts   #
-#                   que podem expor a aplicação web a riscos  # 
-#                   de segurança                              #
-#                                                             #
-###############################################################
+#################################################################
+#   Repositorio:    Security Tool                               #
+#   Nome:           html_scan                                   #
+#   Descrição:      Realiza scan no HTML                        #
+#   Autor:          Carine Constantino                          #
+#   Versão:         2.0                                         #
+#   Data:           19/03/2020                                  #
+#   Python Version: 3.7                                         #
+#   Função:         Ferramenta para fazer scan no código HTML   #  
+#                   e encontrar links, diretórios e scripts     #
+#                   que podem expor a aplicação web a riscos    # 
+#                   de segurança                                #
+#                                                               #
+#################################################################
 
 import requests
 from bs4 import BeautifulSoup
@@ -33,14 +33,9 @@ print('-------------------------------------------------------------')
 print('Create By: Carine Constantino - constantino.seginfo@gmail.com')
 print('-------------------------------------------------------------')
 
-#print("-------------------------------------------------------------")
-#print("DIGITE A URL COMPLETA\n")
-#url = input('URL SCAN: ')
-
 program_name = argparse.ArgumentParser(description = 'Scan HTML')
 url_entrada = program_name.add_argument('--url', action='store', dest='url',
                                    required = True, help = 'Informe uma URL para executar o scan no HTML da página web')
-
 argumentos_parser = program_name.parse_args()
 url = argumentos_parser.url 
 
