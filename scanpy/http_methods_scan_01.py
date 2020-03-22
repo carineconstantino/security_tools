@@ -1,18 +1,18 @@
 #!usr/bin/env python
 
 #
-#############################################################
-#   Repositorio:    Security Tool                           #
-#   Nome:           HTTP Methods Security                   #
-#   Descrição:      Avaliação de Segurança dos métodos HTTP #
-#   Autor:          Carine Constantino                      #
-#   Versão:         2.0                                     #
-#   Data:           20/03/2020                              #
-#   Python Version: 3.6                                     #
-#   Função:         Ferramenta para avaliar a segurança dos #
-#                   métodos HTTP habilitados para uma URL   #
-#                   específica                              #
-#############################################################
+################################################################
+#   Repositorio:    Security Tool                              #
+#   Nome:           http_methods_scan_01                       #
+#   Descrição:      Avaliação de Segurança dos métodos HTTP    #
+#   Autor:          Carine Constantino                         #
+#   Versão:         2.0                                        #
+#   Data:           20/03/2020                                 #
+#   Python Version: 3.6.9                                        #
+#   Função:         Ferramenta para avaliar a segurança dos    #
+#                   métodos HTTP habilitados para uma URL      #
+#                   específica                                 #
+################################################################
 #
 
 import requests
@@ -33,14 +33,9 @@ print('-------------------------------------------------------------')
 print('Create By: Carine Constantino - constantino.seginfo@gmail.com')
 print('-------------------------------------------------------------')
 
-#iprint("-------------------------------------------------------------")
-#print("DIGITE A URL COMPLETA\n")
-#url = input('URL SCAN: ')
-
 program_name = argparse.ArgumentParser(description = 'Scan HTML')
 url_entrada = program_name.add_argument('--url', action='store', dest='url',
                                          required = True, help='Informe uma URL para testar os métodos HTTP habilitados na página web')
-
 argumentos_parser = program_name.parse_args()
 url = argumentos_parser.url 
 
