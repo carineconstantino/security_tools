@@ -13,7 +13,7 @@ Run and salve time to drink a coffe !!
 ### Repository Structure
 
 ```
-scanpy
+- scanpy
 ```
 
 ## Authors
