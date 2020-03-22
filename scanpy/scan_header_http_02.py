@@ -6,7 +6,7 @@
 #   Nome:           scan_header_http_02                         #
 #   Descrição:      Avaliação de Segurança do Cabeçalho HTTP    #
 #   Autor:          Carine Constantino                          #
-#   Versão:         1.4                                         #
+#   Versão:         2.0                                         #
 #   Data:           25/02/2020                                  #
 #   Python Version: 3.7                                         #
 #   Função:         Ferramenta para avaliar a segurança         #
