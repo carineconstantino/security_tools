@@ -9,7 +9,7 @@ The goal is to facilitate the day-to-day life of security professionals.
 
 ## Philosophy
 
-Run and salve time to drink a coffe !! 
+Run and save time to drink a coffe !! 
 
 ### Prerequisites
 
