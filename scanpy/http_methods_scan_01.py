@@ -25,7 +25,7 @@ desenho  = Figlet(font='eftiwall')
 banner_desenho = desenho.renderText('rtz')
 print('\n')
 fonte = Figlet(font='kban')
-banner_fonte = fonte.renderText('Scan-Py')
+banner_fonte = fonte.renderText('Scan HTTP Methods')
 
 print(banner_desenho)
 print(banner_fonte)
