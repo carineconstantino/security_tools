@@ -8,7 +8,7 @@
 #   Autor:          Carine Constantino                         #
 #   Versão:         2.0                                        #
 #   Data:           20/03/2020                                 #
-#   Python Version: 3.6.9                                        #
+#   Python Version: 3.6.9                                      #
 #   Função:         Ferramenta para avaliar a segurança dos    #
 #                   métodos HTTP habilitados para uma URL      #
 #                   específica                                 #
