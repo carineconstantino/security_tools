@@ -23,7 +23,7 @@
  3. Chosse --url command, set your target and execute a scan: 
  
  ```
-   python3 html_scan.py --url <https://example.com>  
+   python3 <script.py> --url <https://example.com>  
  ```
  
  ## Help
