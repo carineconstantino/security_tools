@@ -1,0 +1,45 @@
+#!usr/bin/env python
+
+import requests
+import json
+import argparse
+from datetime import datetime
+from pyfiglet import Figlet
+
+print('-------------------------------------------------------------')
+desenho  = Figlet(font='eftiwall')
+banner_desenho = desenho.renderText('rtz')
+fonte = Figlet(font='contessa')
+banner_fonte = fonte.renderText('MWR')
+
+print(banner_desenho)
+print(banner_fonte)
+print('--------------------------------------------------------------')
+print('Create By: Carine Constantino - carine.constantino@hotmail.com')
+print('--------------------------------------------------------------')
+
+program_name = argparse.ArgumentParser(description = 'MWR usa ABUSE IPDB API - A full list of ip reputation can be access in https://abuseipdb.com')
+ip_entrada = program_name.add_argument('--ip', action='store', dest='ip',
+                                        required = True, help='Informe um endereço IPv4 para executar a consulta')
+days = program_name.add_argument('--maxDays', action='store', dest='maxAgeInDays',
+                                           required = False, help='Período de tempo em que o IP foi registrado na base de dados do ABUSE IPDB')
+argumentos_parser = program_name.parse_args()
+ip = argumentos_parser.ip
+
+def track_ip():
+    api = 'https://api.abuseipdb.com/api/v2/check' 
+    headers = {'Accept': 'application/json', 'key': 'd4c0972a874c7d3c5f0a560c7b7b3ab67c1c642c07b11d618ed989212cc7439dd20e107dda2f701e'}
+    payload = {'ipAddress': ip, 'maxAgeInDays': '90'}
+    req = requests.request(method='GET', url=api, headers=headers, params=payload)
+    data = datetime.now()
+    print("START IN:",data)
+    print("-------------------------------------------------------------")
+    print("REPORT TRACKING IP\n")
+    out = json.loads(req.text)
+    print(json.dumps(out, sort_keys=True, indent=2))
+
+track_ip()
+
+#print(json.dumps(payload, indent=4))
+#print(response)
+#print(response.json())
