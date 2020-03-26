@@ -3,7 +3,16 @@
  <img src="https://img.shields.io/badge/ScanPy-v.2.0-orange" />
  <img src="https://img.shields.io/badge/python-v3.6.9-blue" />
  </p>
+ 
+ ## Modules
 
+```
+- Requests
+- json
+- argparse
+- datetime
+- pyfiglet
+```
 
 ### Quick Start
 
