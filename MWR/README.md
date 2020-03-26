@@ -8,7 +8,7 @@
 ### Objective
 
 MWR is a scanner tool to tracking maliciosos sources like ip address and URL.
-The goal is searching maliciosos sources in wide database availble by security community. 
+The goal is searching maliciosos sources in wide database availble by security community.
 
 ### Community
 
@@ -20,6 +20,15 @@ ABUSE IPDB - www.abuseipdb.com
 
 ```
 - Python 3.6.9 or later. <https://www.python.org>
+```
+## Modules
+
+```
+- Requests
+- json
+- argparse
+- datetime
+- pyfiglet
 ```
 
 ### Quick Start
