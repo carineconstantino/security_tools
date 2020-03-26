@@ -4,6 +4,23 @@
  <img src="https://img.shields.io/badge/MWR-v.0.1-yellow" />
  <img src="https://img.shields.io/badge/python-v3.6.9-blue" />
  </p>
+ 
+### Objective
+
+MWR is a scanner tool to tracking maliciosos sources like ip address and URL.
+The goal is searching maliciosos sources in wide database availble by security community. 
+
+### Community
+
+MWR use the follow security availble database:
+
+ABUSE IPDB - www.abuseipdb.com 
+
+### Prerequisites
+
+```
+- Python 3.6.9 or later. <https://www.python.org>
+```
 
 ### Quick Start
 
