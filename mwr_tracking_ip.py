@@ -43,7 +43,7 @@ ip = argumentos_parser.ip
 
 def track_ip():
     api = 'https://api.abuseipdb.com/api/v2/check' 
-    headers = {'Accept': 'application/json', 'key': 'd4c0972a874c7d3c5f0a560c7b7b3ab67c1c642c07b11d618ed989212cc7439dd20e107dda2f701e'}
+    headers = {'Accept': 'application/json', 'key': 'API'}
     payload = {'ipAddress': ip, 'maxAgeInDays': '90'}
     req = requests.request(method='GET', url=api, headers=headers, params=payload)
     data = datetime.now()
