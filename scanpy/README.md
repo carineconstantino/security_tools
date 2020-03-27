@@ -21,6 +21,7 @@ It´s help-me and maybe help you.
 
 ```
 - Requests
+- BeautifulSoup
 - json
 - argparse
 - datetime
