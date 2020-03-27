@@ -8,8 +8,9 @@
 
 Scanpy isn´t a revolutionary tool for scan web application, I know that !!!
 The goal is save time when a security professional want a fast response and a quickly analysis. 
-More deep tools are available in linux distribuition like Kali and go head if your search is more sophisticated. 
-It´s help-me and maybe help you. 
+More sophisticated tools are available in linux distribuition like Kali and go head if your search is more deep. 
+
+In my journey working as security analyst the creation of this scripts it was a great help. The scan_header_http automated analysis of http headers without install a great tool like Burp Suite. Futhermore, python inspired me learn more and more and think in my own swiss army knife.  
 
 ### Prerequisites
 
