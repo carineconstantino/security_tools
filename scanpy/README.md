@@ -15,7 +15,7 @@ In my journey working as security analyst the creation of this scripts was a gre
 ## Quick descrition of my "swiss army knife"
 
 - <b>scan_header_http_01:</b> seek for security parameters into http header response 
-- <b>+plus scan_header_http_02:</b> seek for security parameters for several url in a file
+- <b>(+plus) scan_header_http_02:</b> seek for security parameters for several url in a file
 - <b>html_scan:</b> read a entire html and return links, scripts and directory found
 - <b>http_methods_scan_01:</b> test for a http methods enable and return a little alert about security 
 
