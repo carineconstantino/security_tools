@@ -39,7 +39,7 @@ ABUSE IPDB - www.abuseipdb.com
     git clone https://github.com/carineconstantino/security_tools/
  ```
     
- 2. Access security_tools/scanpy folder:
+ 2. Access security_tools/MWR folder:
  
  ```
    cd security_tools/MWR
