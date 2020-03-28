@@ -7,7 +7,7 @@
  
 ### Objective
 
-MWR is a scanner tool to tracking maliciosos sources like ip address and URL.
+MWR is tool to tracking maliciosos sources like ip address and URL.
 The goal is searching maliciosos sources in wide database availble by security community.
 
 ### Community
