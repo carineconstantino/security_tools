@@ -24,6 +24,7 @@ Run and save time to drink a coffe !!
 
 ```
 - scanpy
+- MWR
 ```
 
 ## Authors
