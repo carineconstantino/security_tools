@@ -7,7 +7,7 @@ Python scripts to automate security assessment tasks in web applications.
 
 ## Objective
 
-The goal is to facilitate the day-to-day life of security professionals.
+The goal is facilitate the day-to-day life of security professionals.
 
 
 ## Philosophy
