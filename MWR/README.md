@@ -14,13 +14,17 @@ The goal is searching maliciosos sources in wide database availble by security c
 
 MWR use the follow security availble database:
 
-ABUSE IPDB - www.abuseipdb.com 
+ABUSE IPDB - https://www.abuseipdb.com
+CRDF LABS  - https://threatcenter.crdf.fr 
 
 ### Prerequisites
 
 ```
 - Python 3.6.9 or later. <https://www.python.org>
 ```
++++ For ABUSE IPDB make a register for generate a API key. 
++++ For CRDF LABS request a API key or download availble database.  
+
 ## Modules
 
 ```
@@ -46,15 +50,17 @@ ABUSE IPDB - www.abuseipdb.com
    cd security_tools/MWR
  ```
  
- 3. Choose --ip command, set your target and start a tracking: 
+ 3. Choose a script:
+    3.1. Use --ip commando to tracking a malicious ip address with mwr_tracking_ip.py
+    Optionally choose --maxDays command to setting a period of time that ip was reported
  
  ```
    python3 <script.py> --ip <xxx.xxx.xxx.xxx>
- ```
- 
- 4. Optionally choose --maxDays command to setting a period of time that ip was reported
- 
-  ```
    python3 <script.py> --ip <xxx.xxx.xxx.xxx> --maxDays 180
+ ```
+   3.2. Use --domain to tracking a malicious domain with mwr_tracking_domain.py
+   
+ ```
+   python3 <script.py> --domain <exemplo.com> 
  ```
  
