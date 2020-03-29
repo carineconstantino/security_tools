@@ -13,9 +13,10 @@ The goal is searching maliciosos sources in wide database availble by security c
 ### Community
 
 MWR use the follow security availble database:
-
-ABUSE IPDB - https://www.abuseipdb.com
-CRDF LABS  - https://threatcenter.crdf.fr 
+<p>
+ABUSE IPDB - https://www.abuseipdb.com</p>
+<p>
+CRDF LABS  - https://threatcenter.crdf.fr>/p>
 
 ### Prerequisites
 
