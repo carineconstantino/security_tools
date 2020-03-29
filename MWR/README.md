@@ -24,7 +24,7 @@ CRDF LABS  - https://threatcenter.crdf.fr></p>
 - Python 3.6.9 or later. <https://www.python.org>
 ```
 <p>
-+++ For ABUSE IPDB make a register for generate a API key.</p>
++++ For ABUSE IPDB register for generate a API key.</p>
 <p>
 +++ For CRDF LABS request a API key or download availble database.</p>
 
