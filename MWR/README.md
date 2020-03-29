@@ -29,6 +29,7 @@ ABUSE IPDB - www.abuseipdb.com
 - argparse
 - datetime
 - pyfiglet
+- pandas
 ```
 
 ### Quick Start
