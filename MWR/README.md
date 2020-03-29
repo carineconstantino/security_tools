@@ -59,13 +59,16 @@ CRDF LABS  - https://threatcenter.crdf.fr></p>
     3.1. Use --ip command to tracking a malicious ip address with mwr_tracking_ip.py
     Optionally choose --maxDays command to setting a period of time that ip was reported
  </p>
+ 
  ```
    python3 <script.py> --ip <xxx.xxx.xxx.xxx>
    python3 <script.py> --ip <xxx.xxx.xxx.xxx> --maxDays <period of time (Ex.:180)>
  ```
+ 
  <p>
    3.2. Use --domain to tracking a malicious domain with mwr_tracking_domain.py
  </p>  
+ 
  ```
    python3 <script.py> --domain <exemplo.com> 
  ```
