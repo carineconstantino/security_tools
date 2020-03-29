@@ -16,7 +16,7 @@ MWR use the follow security availble database:
 <p>
 ABUSE IPDB - https://www.abuseipdb.com</p>
 <p>
-CRDF LABS  - https://threatcenter.crdf.fr>/p>
+CRDF LABS  - https://threatcenter.crdf.fr></p>
 
 ### Prerequisites
 
