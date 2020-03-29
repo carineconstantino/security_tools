@@ -47,10 +47,11 @@ CRDF LABS  - https://threatcenter.crdf.fr></p>
     git clone https://github.com/carineconstantino/security_tools/
  ```
     
- 2. Access security_tools/MWR folder:
+ 2. Access security_tools folder and list it:
  
  ```
-   cd security_tools/MWR
+   cd security_tools
+   ls -l
  ```
  
  3. Choose a script:
