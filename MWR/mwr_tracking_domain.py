@@ -6,7 +6,7 @@
 #   Descrição:      Realiza o rastreamento de uma url             #
 #   Autor:          Carine Constantino                            #
 #   Versão:         2.0                                           #
-#   Data:           19/03/2020                                    #
+#   Data:           29/03/2020                                    #
 #   Python Version: 3.7                                           #
 #   Função:         Ferramenta para fazer o rastreamento de       #
 #                   uma url e validar se o domínio foi reportado  #
@@ -41,7 +41,7 @@ domain = argumentos_parser.domain
 
 def check_malicious_domain():
 
-    df = pandas.read_excel("homolog_blacklist.xlsx", usecols="B,C,D,E")
+    df = pandas.read_excel("prod_blacklist.xlsx", usecols="B,C,D,E")
     filtro =  df.loc[df['domains'] == domain + "."] 
     data = datetime.now()
     print("START IN:",data)
