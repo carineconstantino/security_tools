@@ -42,7 +42,7 @@ domain = argumentos_parser.domain
 
 def check_malicious_domain():
     
-    df = pandas.read_excel("/home/administrador/dev/blacklist/bases_usadas/prod_blacklist.xlsx", usecols="B,C,D,E")
+    df = pandas.read_excel("blacklist.xlsx", usecols="B,C,D,E")
     filtro = df.loc[df['domains'] == domain + "."]
     lista = list(filtro.domains)
     if len(lista) > 0:
