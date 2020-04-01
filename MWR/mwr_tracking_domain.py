@@ -31,7 +31,7 @@ banner_fonte = fonte.renderText('MWR')
 print(banner_desenho)
 print(banner_fonte)
 print('--------------------------------------------------------------')
-print('Create By: Carine Constantino - carine.constantino@hotmail.com')
+print('Create By: Carine Constantino -- seginfo.threatintel@gmail.com')
 print('--------------------------------------------------------------')
 
 program_name = argparse.ArgumentParser(description = 'MWR - Malware Domain Tracking')
