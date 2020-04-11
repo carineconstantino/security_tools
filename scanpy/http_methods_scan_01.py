@@ -33,7 +33,7 @@ print('-------------------------------------------------------------')
 print('Create By: Carine Constantino - seginfo.threatintel@gmail.com')
 print('-------------------------------------------------------------')
 
-program_name = argparse.ArgumentParser(description = 'Scan HTML')
+program_name = argparse.ArgumentParser(description = 'Scan HTTP Methods')
 url_entrada = program_name.add_argument('--url', action='store', dest='url',
                                          required = True, help='Informe uma URL para testar os métodos HTTP habilitados na página web')
 argumentos_parser = program_name.parse_args()
