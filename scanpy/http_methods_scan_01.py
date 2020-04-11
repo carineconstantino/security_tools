@@ -41,7 +41,7 @@ url = argumentos_parser.url
 
 print ('=============================================\n')
 print ('Análise dos métodos permitidos pela aplicação\n')
-print ('=============================================')
+print ('===============================================')
 
 def verifica(url):
     req = requests.get(url)
