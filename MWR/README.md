@@ -10,6 +10,7 @@
 MWR is a tool to tracking maliciosos sources like ip address and URL.
 The goal is searching maliciosos sources in wide database availble by security community.
 
+
 ### Community
 
 MWR use the follow security availble database:
@@ -73,3 +74,6 @@ CRDF LABS  - https://threatcenter.crdf.fr></p>
    python3 <script.py> --domain <exemplo.com> 
  ```
  
+ ## ADICTIONAL INFORMATION
+ 
+ I compiled a list of malicious domains available by security community and this list has 53.866 domain blacklited. 
