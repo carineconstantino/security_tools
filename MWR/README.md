@@ -74,6 +74,6 @@ CRDF LABS  - https://threatcenter.crdf.fr></p>
    python3 <script.py> --domain <exemplo.com> 
  ```
  
- ## ADICTIONAL INFORMATION
+ ### Additional Information
  
  I compiled a list of malicious domains available by security community and this list has 53.866 domain blacklited. 
