@@ -101,7 +101,7 @@ def verifica():
 
 def check_domain():
     
-    df = pandas.read_csv("/home/administrador/dev/blacklist/blacklist_active.csv")
+    df = pandas.read_csv("blacklist_active.csv")
     filtro = df.loc[df['domains'] == domain]
     lista = list(filtro.domains)
     if len(lista) > 0:
