@@ -10,7 +10,7 @@
 #   Data:           12/04/2020                                    #
 #   Python Version: 3.7                                           #
 #   Função:         Ferramenta para fazer o rastreamento de       #
-#                   uma url e confirma se o domínio ainda está    #
+#                   uma url e confirmar se o domínio ainda está    #
 #                   ativo                                         #
 #                                                                 #
 ################################################################### 
