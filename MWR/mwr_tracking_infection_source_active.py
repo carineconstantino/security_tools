@@ -10,7 +10,7 @@
 #   Data:           12/04/2020                                    #
 #   Python Version: 3.7                                           #
 #   Função:         Ferramenta para fazer o rastreamento de       #
-#                   uma url e confirmar se o domínio ainda está    #
+#                   uma url e confirmar se o domínio ainda está   #
 #                   ativo                                         #
 #                                                                 #
 ################################################################### 
@@ -39,7 +39,7 @@ print('Create By: Carine Constantino\n')
 print('seginfo.threatintel@gmail.com')
 print('--------------------------------------------')
 
-program_name = argparse.ArgumentParser(description = 'MWR - Malware Domain Tracking')
+program_name = argparse.ArgumentParser(description = 'MWR - Infection Source Tracking')
 ip_entrada = program_name.add_argument('--domain', action='store', dest='domain',
                                         required = True, help='Informe uma url para executar a consulta')
 argumentos_parser = program_name.parse_args()
