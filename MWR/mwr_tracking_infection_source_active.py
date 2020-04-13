@@ -110,7 +110,7 @@ def check_domain():
         print("-----------------------------------------------------------")
         print("REPORT TRACKING DOMAIN\n")
         print("[-] URL:", list(filtro.domains),"\n")
-        print("[-] Domain still Alive\n")
+        print("[-] Infection Source still Alive\n")
         print("-----------------------------------------------------------\n")
         print("[-] Realize o bloqueio nas ferramentas de segurança do seu ambiente\n")
     else:
