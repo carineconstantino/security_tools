@@ -3,7 +3,7 @@
 
 ####################################################################
 #   Repositorio:    Security Tool                                  #
-#   Nome:           goo_search                                     #
+#   Nome:           goosearch                                      #
 #   Descrição:      Cria blaclist ou whitelist de sites            #        
 #   Autor:          Carine Constantino                             #
 #   Versão:         1.0                                            #
@@ -12,7 +12,7 @@
 #   Função:         Ferramenta para criar blacklist ou whitelist   #
 #                   de sites baseado em uma palavra ou expressão   #
 #                   consultada no google. Crie listas baseadas     #
-#                   em conteúdo com o goo_search                   #
+#                   em conteúdo com o goosearch                    #
 #                                                                  #
 #                                                                  #
 ####################################################################
