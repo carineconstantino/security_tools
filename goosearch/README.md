@@ -7,7 +7,7 @@
 ### Objective
 
 Goosearch is a tool to create blacklist or whitelist by searching a simple word in Google. The goal is help create a realistic list 
-of sites. Many blacklist or whitelist available are not update and some old sites are not effective to use in your environment settings 
+of sites. Many blacklist or whitelist available are not update and is less effective to use in your environment settings 
 of content filter. 
 
 
