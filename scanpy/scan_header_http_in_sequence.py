@@ -3,11 +3,11 @@
 #
 #################################################################
 #   Repositorio:    Security Tool                               #
-#   Nome:           scan_header_http_02                         #
+#   Nome:           Scan HTTP Headers (In Sequence)             #
 #   Descrição:      Avaliação de Segurança do Cabeçalho HTTP    #
 #   Autor:          Carine Constantino                          #
 #   Versão:         2.0                                         #
-#   Data:           25/02/2020                                  #
+#   Data:           19/04/2020                                  #
 #   Python Version: 3.7                                         #
 #   Função:         Ferramenta para avaliar a segurança         #
 #                   do cabeçalho HTTP de URL's fornecidas       #
@@ -24,7 +24,7 @@ print('-------------------------------------------------------------')
 desenho  = Figlet(font='eftiwall')
 banner_desenho = desenho.renderText('rtz')
 fonte = Figlet(font='contessa')
-banner_fonte = fonte.renderText('Scan HTTP Header')
+banner_fonte = fonte.renderText('Scan HTTP Header (In Sequence)')
 
 print(banner_desenho)
 print(banner_fonte)
