@@ -41,7 +41,7 @@ of content filter.
    ls -l 
  ```
  
- 3. Enter a some world to search sites that have this subject:  
+ 3. Enter some world to search sites that have this subject:  
  
  ```
    python3 <script.py>
@@ -54,6 +54,3 @@ of content filter.
         1 - Safe Mode
         2 - Not Safe Mode
  ```
-
-
-
