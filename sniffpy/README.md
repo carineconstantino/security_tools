@@ -30,18 +30,23 @@ Sniff Py was created for capture ip address and port in a specfic interface.
  2. Access security_tools/scanpy folder and list it:
  
  ```
-   cd security_tools/scanpy
+   cd security_tools/sniffpy
    ls -l 
  ```
  
- 3. Chosse --url command, set your target and execute a scan: 
+ 3. Chosse -i command, set your interface and start a capture: 
  
  ```
-   python3 <script.py> --url <https://example.com>  
+   python3 <script.py> -i <interface> 
  ```
  
  ## Help
  
-All Scanpy tools have only two command option (for now!!) that is `--url` and `--help`  
+Sniff Py tool have a packet count to 200 packets in 60 minutes. If you want change the following params: 
+
+ ```
+   - timeout = 60
+   - packet_count = 200
+ ```
 
 
