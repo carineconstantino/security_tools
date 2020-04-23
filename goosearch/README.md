@@ -26,4 +26,34 @@ of content filter.
 - pyfiglet
 
 ```
+### Quick Start
+
+1. Clone the latest version of security_tools from git clone command:
+
+ ```
+    git clone https://github.com/carineconstantino/security_tools/
+ ```
+    
+ 2. Access security_tools/scanpy folder and list it:
+ 
+ ```
+   cd security_tools/goosearch
+   ls -l 
+ ```
+ 
+ 3. Enter a some world to search sites that have this subject:  
+ 
+ ```
+   python3 <script.py>
+   Search String: <world>
+ ```
+ 4. Choose option 1 to search in Safe Mode and create a whitelist or option 2 to search without Safe and create a blacklist: 
+ 
+  ```
+   Search Mode:
+        1 - Safe Mode
+        2 - Not Safe Mode
+ ```
+
+
 
