@@ -7,7 +7,7 @@
 #   Autor:          Carine Constantino                            #
 #   Versão:         3.0                                           #
 #   Data:           12/04/2020                                    #
-#   Python Version: 3.7                                           #
+#   Python Version: 3.6.9                                           #
 #   Função:         Ferramenta para fazer o rastreamento de       #
 #                   uma url e validar se o domínio foi reportado  #
 #                   como malicioso em diversas bases de dados da  #
