@@ -2,7 +2,7 @@
 
 ### Objective
 
-Sniff Py was created for capture ip address and port in a specfic interface.
+Sniff Py was created to capture ip address and port in a specfic interface.
 The goal is see ip address and port that was contacted when a aplication is start or a website is accessed.
 Is simple and use pyshark modules with Wireshark cli params. 
 
