@@ -7,7 +7,7 @@
 #   Autor:          Carine Constantino                             #
 #   Versão:         1.0                                            #
 #   Data:           12/04/2020                                     #
-#   Python Version: 3.7                                            #
+#   Python Version: 3.6.9                                           #
 #   Função:         Ferramenta para fazer  pesquisa de categoria   #
 #                   de uma url nas bases de dados da Fortinet      #
 #                   Fortiguard e da McAfee - Web Advisor           #
