@@ -8,7 +8,7 @@
 #   Autor:          Carine Constantino                             #
 #   Versão:         1.0                                            #
 #   Data:           17/04/2020                                     #
-#   Python Version: 3.7                                            #
+#   Python Version: 3.6.9                                            #
 #   Função:         Ferramenta para criar blacklist ou whitelist   #
 #                   de sites baseado em uma palavra ou expressão   #
 #                   consultada no google. Crie listas baseadas     #
