@@ -30,7 +30,7 @@ Is simple and use pyshark modules with Wireshark cli params.
     git clone https://github.com/carineconstantino/security_tools/
  ```
     
- 2. Access security_tools/scanpy folder and list it:
+ 2. Access security_tools/sniffpy folder and list it:
  
  ```
    cd security_tools/sniffpy
