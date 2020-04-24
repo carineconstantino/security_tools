@@ -42,7 +42,7 @@ Sniff Py was created for capture ip address and port in a specfic interface.
  
  ## Help
  
-Sniff Py tool have a packet count to 200 packets in 60 minutes. If you want change the following params: 
+Sniff Py tool have a packet count to 200 packets in 60 minutes. If you want can change the following params: 
 
  ```
    - timeout = 60
