@@ -7,7 +7,7 @@
 #   Autor:          Carine Constantino                          #
 #   Versão:         1.0                                         #
 #   Data:           19/04/2020                                  #
-#   Python Version: 3.7                                         #
+#   Python Version: 3.6.9                                        #
 #   Função:         Ferramenta para fazer o rastreamento de     #  
 #                   endereço ipv4 e validar se o mesmo foi      #
 #                   reportado como malicioso na base de dados   # 
