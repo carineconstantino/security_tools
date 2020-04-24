@@ -8,7 +8,7 @@
 #   Autor:          Carine Constantino                            #
 #   Versão:         1.0                                           #
 #   Data:           12/04/2020                                    #
-#   Python Version: 3.7                                           #
+#   Python Version: 3.6.9                                           #
 #   Função:         Ferramenta para fazer o rastreamento de       #
 #                   uma url e confirmar se o domínio ainda está   #
 #                   ativo                                         #
