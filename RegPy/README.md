@@ -1,6 +1,6 @@
 <p>
- <img src="https://img.shields.io/badge/MWR-v.0.1-yellow" />
- <img src="https://img.shields.io/badge/python-v3.6.9-blue" />
+ <img src="https://img.shields.io/badge/RegPy-v.1.0-blue" />
+ <img src="https://img.shields.io/badge/python-v3.7.7-blue" />
  </p>
  
 ### Objective
