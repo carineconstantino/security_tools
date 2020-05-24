@@ -1,6 +1,7 @@
 ![goosearchlogo](https://user-images.githubusercontent.com/53983340/79625941-e2033480-8102-11ea-80db-92ce0169caab.jpg)
 
 <p>
+ <img src="https://img.shields.io/badge/goosearch-v.1.0-green"/>
  <img src="https://img.shields.io/badge/python-v3.7.7-blue" />
  </p>
  
