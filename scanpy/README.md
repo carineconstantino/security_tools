@@ -1,7 +1,7 @@
 ![scanpylogo](https://user-images.githubusercontent.com/53983340/77257989-77bbb900-6c56-11ea-9171-473abee450f2.jpg)
 <p>
  <img src="https://img.shields.io/badge/ScanPy-v.2.0-orange" />
- <img src="https://img.shields.io/badge/python-v3.6.9-blue" />
+ <img src="https://img.shields.io/badge/python-v3.7.7-blue" />
  </p>
  
  ### Objective
