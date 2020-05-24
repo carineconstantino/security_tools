@@ -1,7 +1,7 @@
 # Security Tools 
 
-<img src="https://img.shields.io/badge/Security__Tools-v1.0--2020-green" />
-<img src="https://img.shields.io/badge/python-v3.6.9-blue" />
+<img src="https://img.shields.io/badge/Security__Tools-v3.0--2020-green" />
+<img src="https://img.shields.io/badge/python-v3.7.7-blue" />
 
 Python scripts to automate security assessment tasks in web application and hunting for threat sources. 
 
@@ -27,6 +27,7 @@ Run and save time to drink a coffe !!
 - MWR
 - goosearch
 - sniffpy
+- Regpy
 ```
 
 ## Authors
