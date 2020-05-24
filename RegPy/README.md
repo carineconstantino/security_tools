@@ -38,6 +38,7 @@ RegPy is a tool to facilitate search a windows registry key and return your valu
  
  3. Run script and choose a options:
  
+ ![regpy01](https://user-images.githubusercontent.com/53983340/82765342-5ad56a80-9dec-11ea-9e75-405f65cda6f1.png)
  
  <p>
     3.1. Use --ip command to tracking a malicious ip address with mwr_tracking_ip.py
