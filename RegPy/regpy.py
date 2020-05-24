@@ -22,8 +22,6 @@ print('Create By: Carine Constantino')
 print('seginfo.threatintel@gmail.com')
 print("\n")
 
-
-
 print("Choose a Key to Search: ")
 print('''Key Options:
       1 - HKEY_LOCAL_MACHINE
