@@ -51,5 +51,10 @@ RegPy is a tool to facilitate search a windows registry key and return your valu
  
  ### Additional Information
  
- I compiled a list of malicious domains available by security community and this list has 53.866 domain blacklited. 
+RegPy only execute in a Windows machine. 
+
+For search a HKEY_CURRENT_USER, HKEY_USERS and HKEY_CLASSES_ROOT don´t start with a blackslash
+
+
+
 
