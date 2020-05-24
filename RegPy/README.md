@@ -43,6 +43,10 @@ RegPy is a tool to facilitate search a windows registry key and return your valu
  4. Write a registry path and a subkey to search your value:
  
  ![regpy02](https://user-images.githubusercontent.com/53983340/82765414-36c65900-9ded-11ea-9644-8b204cc2965b.png)
+ 
+ 5. Result
+ 
+ ![regpy03](https://user-images.githubusercontent.com/53983340/82765476-a5a3b200-9ded-11ea-8e7a-f4f5e63dd5ad.png)
 
  
  ### Additional Information
