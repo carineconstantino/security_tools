@@ -1,7 +1,7 @@
 # Security Tools 
 
-<img src="https://img.shields.io/badge/Security__Tools-v3.0--2020-green" />
-<img src="https://img.shields.io/badge/python-v3.7.7-blue" />
+<img src="https://img.shields.io/badge/Security__Tools-v.3.0--2020-green" />
+<img src="https://img.shields.io/badge/python-v.3.7.7-blue" />
 
 Python scripts to automate security assessment tasks in web application and hunting for threat sources. 
 
