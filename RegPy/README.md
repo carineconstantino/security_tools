@@ -36,23 +36,13 @@ RegPy is a tool to facilitate search a windows registry key and return your valu
    ls -l
  ```
  
- 3. Run script and choose a options:
+ 3. Run script and choose a registry key to search: 
  
- ![regpy01](https://user-images.githubusercontent.com/53983340/82765342-5ad56a80-9dec-11ea-9e75-405f65cda6f1.png)
+ ![regpy01](https://user-images.githubusercontent.com/53983340/82765366-a25bf680-9dec-11ea-893c-924bebea074a.png)
  
- <p>
-    3.1. Use --ip command to tracking a malicious ip address with mwr_tracking_ip.py
-    Optionally choose --maxDays command to setting a period of time that ip was reported
- </p>
+ 4. Write a registry path and a subkey to search your value:
  
- ```
-   python3 <script.py> --ip <xxx.xxx.xxx.xxx>
-   python3 <script.py> --ip <xxx.xxx.xxx.xxx> --maxDays <period of time (Ex.:180)>
- ```
  
- <p>
-   3.2. Use --domain to tracking a malicious domain with mwr_tracking_domain.py
- </p>  
  
  ```
    python3 <script.py> --domain <exemplo.com> 
