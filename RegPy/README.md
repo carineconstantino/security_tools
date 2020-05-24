@@ -42,11 +42,8 @@ RegPy is a tool to facilitate search a windows registry key and return your valu
  
  4. Write a registry path and a subkey to search your value:
  
- 
- 
- ```
-   python3 <script.py> --domain <exemplo.com> 
- ```
+ ![regpy02](https://user-images.githubusercontent.com/53983340/82765414-36c65900-9ded-11ea-9644-8b204cc2965b.png)
+
  
  ### Additional Information
  
