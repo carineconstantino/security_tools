@@ -55,6 +55,6 @@ RegPy only execute in a Windows machine.
 
 For search a HKEY_CURRENT_USER, HKEY_USERS and HKEY_CLASSES_ROOT don´t start with a blackslash
 
-
+![regpy04](https://user-images.githubusercontent.com/53983340/82765782-07fdb200-9df0-11ea-8b90-1baf6a1e3ae4.png)
 
 
