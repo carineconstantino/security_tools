@@ -5,37 +5,20 @@
  
 ### Objective
 
-RegPy is a tool to facilitate search a windows registry key and return your value.
+RegPy is a tool to facilitate search a windows registry key and return your value. The goal is facilitate when is necessary to do an investigation and identify if a malware actions change registry value. 
 
-
-
-### Community
-
-MWR use the follow security availble database:
-<p>
-ABUSE IPDB - https://www.abuseipdb.com</p>
-<p>
-CRDF LABS  - https://threatcenter.crdf.fr></p>
 
 ### Prerequisites
 
 ```
+- Install Python in Windows 7 or later
 - Python 3.6.9 or later. <https://www.python.org>
 ```
-<p>
-+++ For ABUSE IPDB register for generate a API key.</p>
-<p>
-+++ For CRDF LABS request a API key or download availble database.</p>
 
 ### Modules
 
 ```
-- Requests
-- json
-- argparse
-- datetime
-- pyfiglet
-- pandas
+- winreg
 ```
 
 ### Quick Start
@@ -53,7 +36,9 @@ CRDF LABS  - https://threatcenter.crdf.fr></p>
    ls -l
  ```
  
- 3. Choose a script:
+ 3. Run script and choose a options:
+ 
+ 
  <p>
     3.1. Use --ip command to tracking a malicious ip address with mwr_tracking_ip.py
     Optionally choose --maxDays command to setting a period of time that ip was reported
