@@ -2,7 +2,7 @@
 
 <p>
  <img src="https://img.shields.io/badge/goosearch-v.1.0-green"/>
- <img src="https://img.shields.io/badge/python-v3.7.7-blue" />
+ <img src="https://img.shields.io/badge/python-v.3.7.7-blue" />
  </p>
  
 ### Objective
