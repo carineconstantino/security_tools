@@ -1,7 +1,8 @@
 ![sniffpy](https://user-images.githubusercontent.com/53983340/80211256-c53b9500-860b-11ea-9296-15c31bc24164.jpg)
 
 <p>
- <img src="https://img.shields.io/badge/sniffpy-v.3.0-lightgrey">
+ <img src="https://img.shields.io/badge/sniffpy-v.3.0-lightgrey"/>
+ <img src="https://img.shields.io/badge/python-v.3.7.7-blue" />
 </p> 
 
 ### Objective
