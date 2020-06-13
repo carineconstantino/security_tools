@@ -22,7 +22,7 @@ CRDF LABS  - https://threatcenter.crdf.fr></p>
 ### Prerequisites
 
 ```
-- Python 3.6.9 or later. <https://www.python.org>
+- Python 3.7.7 or later. <https://www.python.org>
 ```
 <p>
 +++ For ABUSE IPDB register for generate a API key.</p>
