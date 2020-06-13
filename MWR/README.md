@@ -8,7 +8,7 @@
 ### Objective
 
 MWR is a tool to tracking maliciosos sources like ip address and URL.
-The goal is searching malicios sources in wide database availble by security community.
+The goal is searching malicious sources in wide database availble by security community.
 
 
 ### Community
