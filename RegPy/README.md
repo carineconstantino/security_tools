@@ -12,7 +12,7 @@ RegPy is a tool to facilitate search a windows registry key and return your valu
 
 ```
 - Install Python in Windows 7 or later
-- Python 3.6.9 or later. <https://www.python.org>
+- Python 3.7.7 or later. <https://www.python.org>
 ```
 
 ### Modules
