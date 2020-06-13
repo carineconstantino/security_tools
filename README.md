@@ -17,7 +17,7 @@ Run and save time to drink a coffe !!
 ### Prerequisites
 
 ```
-- Python 3.6.9 or later. <https://www.python.org>
+- Python 3.7.7 or later. <https://www.python.org>
 ```
 
 ### Repository Structure
