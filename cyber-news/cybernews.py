@@ -9,7 +9,7 @@
 #   Data:           01/07/2020                                                  #
 #   Python Version: 3.7.7                                                       #
 #   Função:         Ferramenta para fazer pesquisa de notícias sobre segurança  #
-#                   na comunicada Blue Liv. Essa comunidade publica informações #
+#                   na comunidade Blue Liv. Essa comunidade publica informações #
 #                   sobre ataques, malwares e ameaças do mundo Cybersecurity.   #
 #                                                                               #
 #################################################################################
