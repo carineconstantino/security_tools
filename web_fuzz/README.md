@@ -7,7 +7,7 @@
 ### Objective
 
 PyFuzz is another tool for quickly scan/fuzzer a url and search files and directories hidden by misconfiguration in web server. 
-This tool isn´t a innovative tool but if we need run a fuzzer in portable mode, PyFuzz can help us. 
+It isn´t a innovative tool but if we need run a fuzzer in portable mode, PyFuzz can help us. 
 
 ### Prerequisites
 
