@@ -10,7 +10,7 @@
 #   Python Version: 3.7                                                 #
 #   Função:         Ferramenta para fazer scan do tipo fuzzer na url    #
 #                   procurando por arquivo e diretórios expostos pelo   #
-#                   web serve.                                          #
+#                   web server.                                          #
 #########################################################################
 
 
