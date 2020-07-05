@@ -8,9 +8,8 @@
 #   Versão:         1.0                                                 #
 #   Data:           05/07/2020                                          #
 #   Python Version: 3.7                                                 #
-#   Função:         Ferramenta para fazer scan do tipo fuzzer na url    #
-#                   procurando por arquivos e diretórios expostos pelo  #
-#                   web server.                                         #
+#   Função:         Tool do to fuzzer na url and search to files and    #
+#                   folder expose by web server.                        #
 #########################################################################
 
 
