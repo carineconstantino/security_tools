@@ -15,10 +15,37 @@ It isn´t a innovative tool but if we need run a fuzzer in portable mode, PyFuzz
 - Python 3.7.7 or later. <https://www.python.org>
 ```
  
- ## Modules
+## Modules
 
 ```
 - Requests
 - pyfiglet
 
 ```
+
+### uick Start
+
+1. Clone the latest version of security_tools from git clone command:
+
+ ```
+    git clone https://github.com/carineconstantino/security_tools/
+ ```
+ 2. Access security_tools/web_fuzz folder and list it:
+ 
+ ```
+   cd security_tools/web_fuzz
+   ls -l 
+ ```
+ 
+ 3. Chosse a url and a list with params to fuzzer a url: 
+  
+ ```
+   Lists: 
+   
+   + web_fuzz.txt
+   
+ ```
+ 
+ 
+
+
