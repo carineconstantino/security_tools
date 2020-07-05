@@ -1,4 +1,4 @@
-![scanpylogo](https://user-images.githubusercontent.com/53983340/77257989-77bbb900-6c56-11ea-9171-473abee450f2.jpg)
+![pyfuzzlogo](https://user-images.githubusercontent.com/53983340/86543874-e1578e80-bef8-11ea-9b50-f6ecfa82fe58.png)
 <p>
  <img src="https://img.shields.io/badge/PyFuzz-v.2.0-orange" />
  <img src="https://img.shields.io/badge/python-v.3.7.7-blue" />
