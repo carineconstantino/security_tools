@@ -2,16 +2,13 @@
 
 #################################################################################
 #   Repositorio:    Security Tool                                               #
-#   Nome:           cybernews                                                   #
-#   Descrição:      Consulta notícias na comunidade Blue Liv de Segurança       #
+#   Nome:           Cybernews                                                   #
+#   Descrição:      Search news by API of BlueLiv security community            #
 #   Autor:          Carine Constantino                                          #
 #   Versão:         1.0                                                         #
 #   Data:           01/07/2020                                                  #
 #   Python Version: 3.7.7                                                       #
-#   Função:         Ferramenta para fazer pesquisa de notícias sobre segurança  #
-#                   na comunidade Blue Liv. Essa comunidade publica informações #
-#                   sobre ataques, malwares e ameaças do mundo Cybersecurity.   #
-#                                                                               #
+#   Função:         Tool to searching news about security on BlueLiv community. #
 #################################################################################
 
 import requests
