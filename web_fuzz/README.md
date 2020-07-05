@@ -1,6 +1,6 @@
 ![pyfuzzlogo](https://user-images.githubusercontent.com/53983340/86543874-e1578e80-bef8-11ea-9b50-f6ecfa82fe58.png)
 <p>
- <img src="https://img.shields.io/badge/PyFuzz-v.1.0-orange" />
+ <img src="https://img.shields.io/badge/PyFuzz-v.1.0-red" />
  <img src="https://img.shields.io/badge/python-v.3.7.7-blue" />
  </p>
  
@@ -19,7 +19,6 @@ This tool isn´t a innovative tool but if we need run a fuzzer in portable mode,
 
 ```
 - Requests
-- BeautifulSoup
-- json
-- argparse
-- datetime
+- pyfiglet
+
+```
