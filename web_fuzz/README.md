@@ -37,12 +37,16 @@ It isn´t a innovative tool but if we need run a fuzzer in portable mode, PyFuzz
    ls -l 
  ```
  
- 3. Chosse a url and a list with params to fuzzer a url: 
+ 3. Run script and chosse a url and a list with params to fuzzer a url: 
   
  ```
    Lists: 
    
-   + web_fuzz.txt
+   + web_dir.txt
+   + web_files.txt
+   + apache.txt
+   + cgis.txt
+   + coldfusion.txt
    
  ```
  
