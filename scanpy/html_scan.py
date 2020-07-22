@@ -45,7 +45,8 @@ if __name__ == '__main__':
 
     program_name  = argparse.ArgumentParser(description = 'Scan HTML')
     program_name.add_argument('--url', action='store', dest='url',
-                                            required = True, help = 'Informe uma URL para executar o scan no HTML da página web')
+                                            required = True, help = ''' Informe uma URL para executar o scan no HTML da página web :::
+                                            Exemplo: python html_scan.py --url https://example.com.br ''')
 
     argumentos_parser = program_name.parse_args()
     url = argumentos_parser.url
