@@ -2,12 +2,12 @@
 
 ####################################################################
 #   Repositorio:    Security Tool                                  #
-#   Nome:           mwr_category_url                               #
+#   Nome:           Search Web Category                            #
 #   Descrição:      Pesquisa a categoria da URL                    #
 #   Autor:          Carine Constantino                             #
 #   Versão:         1.0                                            #
 #   Data:           12/04/2020                                     #
-#   Python Version: 3.6.9                                           #
+#   Python Version: 3.6.9                                          #
 #   Função:         Ferramenta para fazer  pesquisa de categoria   #
 #                   de uma url nas bases de dados da Fortinet      #
 #                   Fortiguard e da McAfee - Web Advisor           #
