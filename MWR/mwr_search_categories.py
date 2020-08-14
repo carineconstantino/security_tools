@@ -2,11 +2,11 @@
 
 ####################################################################
 #   Repositorio:    Security Tool                                  #
-#   Nome:           Search Web Category                            #
+#   Nome:           Search URL Category                            #
 #   Descrição:      Pesquisa a categoria da URL                    #
 #   Autor:          Carine Constantino                             #
-#   Versão:         1.0                                            #
-#   Data:           12/04/2020                                     #
+#   Versão:         1.1                                            #
+#   Data:           14/08/2020                                     #
 #   Python Version: 3.6.9                                          #
 #   Função:         Ferramenta para fazer  pesquisa de categoria   #
 #                   de uma url nas bases de dados da Fortinet      #
@@ -35,9 +35,10 @@ print('Create By: Carine Constantino\n')
 print('seginfo.threatintel@gmail.com')
 print('--------------------------------------------')
 
-program_name = argparse.ArgumentParser(description = 'Search Web Category')
+program_name = argparse.ArgumentParser(description = 'Search URL Category')
 url_entrada = program_name.add_argument('--url', action='store', dest='url',
-                                   required = True, help = 'Informe uma URL para executar a pesquisa de categoria')
+                                   required = True, help = '''Informe uma URL com o comando --url para executar a pesquisa de categoria
+                                                              Ex.: python3 mwr_search_category.py --url https//example.com ''')
 argumentos_parser = program_name.parse_args()
 url = argumentos_parser.url
 
