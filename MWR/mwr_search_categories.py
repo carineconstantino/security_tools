@@ -2,7 +2,7 @@
 
 ####################################################################
 #   Repositorio:    Security Tool                                  #
-#   Nome:           Search URL Category                            #
+#   Nome:           mwr_search_categories                          #
 #   Descrição:      Pesquisa a categoria da URL                    #
 #   Autor:          Carine Constantino                             #
 #   Versão:         1.1                                            #
