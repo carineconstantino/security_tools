@@ -6,8 +6,8 @@
 #   Nome:           Scan HTTP Headers                           #
 #   Descrição:      Avaliação de Segurança do Cabeçalho HTTP    #
 #   Autor:          Carine Constantino                          #
-#   Versão:         3.0                                         #
-#   Data:           19/04/2020                                  #
+#   Versão:         3.1                                         #
+#   Data:           16/08/2020                                  #
 #   Python Version: 3.6                                         #
 #   Função:         Ferramenta para avaliar a segurança         #
 #                   do cabeçalho HTTP de uma URL específica     #
@@ -43,7 +43,8 @@ if __name__ == '__main__':
 
     program_name = argparse.ArgumentParser(description = 'Scan HTTP Headers')
     program_name.add_argument('--url', action='store', dest='url',
-                                         required = True, help='Informe uma URL para testar a segurança do cabeçalho HTTP')
+                                         required = True, help=''' Informe uma URL para testar a segurança do cabeçalho HTTP ::: 
+                                                               Exemplo: python3 scan_header_http_I.py --url https://exemplo.com  ''')
 
     argumentos_parser = program_name.parse_args()
     url = argumentos_parser.url
