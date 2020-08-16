@@ -6,9 +6,9 @@
 #   Nome:           Scan HTTP Methods                          #
 #   Descrição:      Avaliação de Segurança dos métodos HTTP    #
 #   Autor:          Carine Constantino                         #
-#   Versão:         3.0                                        #
-#   Data:           19/04/2020                                 #
-#   Python Version: 3.6.9                                      #
+#   Versão:         3.1                                        #
+#   Data:           16/08/2020                                 #
+#   Python Version: 3.7.7                                      #
 #   Função:         Ferramenta para avaliar a segurança dos    #
 #                   métodos HTTP habilitados para uma URL      #
 #                   específica                                 #
@@ -44,7 +44,8 @@ if __name__ == '__main__':
 
     program_name = argparse.ArgumentParser(description = 'Scan HTTP Methods')
     program_name.add_argument('--url', action='store', dest='url',
-                                         required = True, help='Informe uma URL para testar os métodos HTTP habilitados na página web')
+                                         required = True, help=''' Informe uma URL para testar os métodos HTTP habilitados na página web  :::
+                                                               Exemplo: python3 http_methods_scan.py --url https://exemplo.com           ''')
 
     argumentos_parser = program_name.parse_args()
     url = argumentos_parser.url 
