@@ -51,11 +51,13 @@ In my journey working as security analyst the creation of this scripts was a gre
    ls -l 
  ```
  
- 3. Chosse --url command, set your target and execute a scan: 
+ 3. Chosse a script: 
+ 3.1 [html_scan.py](
  
  ```
-   python3 <script.py> --url <https://example.com>  
+   python3 html_scan.py --url https://example.com
  ```
+ 3.2 [http_
  
  ## Help
  
