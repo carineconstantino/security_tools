@@ -57,8 +57,17 @@ In my journey working as security analyst the creation of this scripts was a gre
  ```
    python3 html_scan.py --url https://example.com
  ```
- 3.2 [http_
+ 3.2 [http_methods_scan.py]
  
+  ```
+   python3 http_methods_scan.py --url https://example.com
+ ```
+ 3.3 [scan_header_http_I.py]
+
+  ```
+   python3 scan_header_http_I.py --url https://example.com
+ ```
+
  ## Help
  
 All Scanpy tools have only two command option (for now!!) that is `--url` and `--help`  
