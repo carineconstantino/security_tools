@@ -51,11 +51,11 @@ In my journey working as security analyst the creation of this scripts was a gre
    ls -l 
  ```
  
- 3. Chosse a script: 
+ 3.Chosse a script: 
  
- **3.1 html_scan.py
- 3.2 http_methods_scan.py
- 3.3 scan_header_http_I.py**
+ **3.1 html_scan.py   
+3.2 http_methods_scan.py  
+3.3 scan_header_http_I.py**
  
  All script for work use _--url_ option
  
