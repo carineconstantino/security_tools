@@ -8,7 +8,7 @@
 ### Objective
 
 Lost_and_Found is a tool to search specific files in Windows and Linux Files System.
-The goal é found specific files quickly in a wide file system. 
+The goal is found specific files quickly in a wide file system. 
 
 ### Prerequisites
 
