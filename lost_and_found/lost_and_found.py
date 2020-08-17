@@ -38,7 +38,7 @@ program_name.add_argument('--location', action='store', dest='location',
                                                               Exemplo: python3 search_file.py --location C:\\ -e .exe           ''')
 
 program_name.add_argument('-e', action='store', dest='extension',
-                                        required = True, help=''' Informe a extensão que deseja procurar (.exe, .log, .sys)
+                                        required = False, help=''' Informe a extensão que deseja procurar (.exe, .log, .sys)
                                                               Exemplo: python3 search_file.py --location C:\\ -e .exe  ''')
 
 argumentos_parser = program_name.parse_args()
