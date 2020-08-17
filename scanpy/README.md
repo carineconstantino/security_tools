@@ -63,7 +63,7 @@ In my journey working as security analyst the creation of this scripts was a gre
    python3 <script> --url https://example.com
  ```
  
- The exception is **scan_header_http_in_sequence.py** that use URL in a file for start scan. 
+ The exception is **scan_header_http_in_sequence.py** that use a list of URL in a file for start scan. 
  
  ## Help
  
