@@ -52,22 +52,19 @@ In my journey working as security analyst the creation of this scripts was a gre
  ```
  
  3. Chosse a script: 
- 3.1 [html_scan.py](
+ 
+ **3.1 html_scan.py
+ 3.2 http_methods_scan.py
+ 3.3 scan_header_http_I.py**
+ 
+ All script for work use _--url_ option
  
  ```
-   python3 html_scan.py --url https://example.com
+   python3 <script> --url https://example.com
  ```
- 3.2 [http_methods_scan.py]
  
-  ```
-   python3 http_methods_scan.py --url https://example.com
- ```
- 3.3 [scan_header_http_I.py]
-
-  ```
-   python3 scan_header_http_I.py --url https://example.com
- ```
-
+ The exception is **scan_header_http_in_sequence.py** that use URL in a file for start scan. 
+ 
  ## Help
  
 All Scanpy tools have only two command option (for now!!) that is `--url` and `--help`  
