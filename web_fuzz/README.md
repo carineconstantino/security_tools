@@ -30,7 +30,7 @@ It isn´t a innovative tool but if we need run a fuzzer in portable mode, PyFuzz
  ```
     git clone https://github.com/carineconstantino/security_tools/
  ```
- 2. Access security_tools/web_fuzz folder and list it:
+ 2. Access **security_tools/web_fuzz** folder and list it:
  
  ```
    cd security_tools/web_fuzz
@@ -40,6 +40,8 @@ It isn´t a innovative tool but if we need run a fuzzer in portable mode, PyFuzz
  3. Run script and chosse a url and a list with params to fuzzer a url: 
   
  ```
+ ![web_fuzz_imagem]
+ 
    Lists: 
    
    + web_dir.txt
