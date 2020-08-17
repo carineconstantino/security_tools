@@ -39,7 +39,7 @@ Lost_and_Found is a tool to search specific files in Windows and Linux Files Sys
    ls -l
  ```
  
- 3. Choose **--location** to set path to search and **-e** for specific file extension:
+ 3. Choose **--location** to set path and **-e** for specific file extension:
  
  ```
    python3 lost_and_found.py --location C:\\ -e .exe
@@ -47,5 +47,5 @@ Lost_and_Found is a tool to search specific files in Windows and Linux Files Sys
  
  ### Additional Information
  
- The params **-e** are optional and if you need search not specific files, this options is not needed. 
+ The params **-e** are optional and if you dont need search a specific files, this options is not for you. 
 
