@@ -39,7 +39,7 @@ It isn´t a innovative tool but if we need run a fuzzer in portable mode, PyFuzz
  
  3. Run script and chosse a url and a list with params to fuzzer a url: 
   
- (![web_fuzz_imagem](https://user-images.githubusercontent.com/53983340/90347809-e4ba5b80-e008-11ea-84ee-898e2c9e7d63.png)
+ ![web_fuzz_imagem](https://user-images.githubusercontent.com/53983340/90347809-e4ba5b80-e008-11ea-84ee-898e2c9e7d63.png)
  
  ```
    lists: 
