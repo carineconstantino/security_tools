@@ -8,6 +8,7 @@
 ### Objective
 
 Lost_and_Found is a tool to search specific files in Windows and Linux Files System.
+The goal é found specific files quickly in a wide file system. 
 
 ### Prerequisites
 
@@ -32,11 +33,12 @@ Lost_and_Found is a tool to search specific files in Windows and Linux Files Sys
     git clone https://github.com/carineconstantino/security_tools/
  ```
     
- 2. Access security_tools folder and list it:
+ 2. Access security_tools folder, list it and choose **lost_and_found** folder:
  
  ```
    cd security_tools
    ls -l
+   cd lost_and_found
  ```
  
  3. Choose **--location** to set path and **-e** for specific file extension:
@@ -44,8 +46,4 @@ Lost_and_Found is a tool to search specific files in Windows and Linux Files Sys
  ```
    python3 lost_and_found.py --location C:\\ -e .exe
  ```
- 
- ### Additional Information
- 
- The params **-e** are optional and if you dont need search a specific files, this options is not for you. 
 
