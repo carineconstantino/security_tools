@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 
 #################################################################
-#   Repositorio:    Security Tool                               #
-#   Nome:           Scan HTML                                   #
+#   Repositorio:    Basic Scrpts                                #
+#   Nome:           HTML Scan                                   #
 #   Descrição:      Realiza scan no HTML                        #
 #   Autor:          Carine Constantino                          #
-#   Versão:         3.0                                         #
+#   Versão:         1.0                                         #
 #   Data:           19/04/2020                                  #
-#   Python Version: 3.7                                         #
+#   Python Version: 3.6.9                                       #
 #   Função:         Ferramenta para fazer scan no código HTML   #  
 #                   e encontrar links, diretórios e scripts     #
 #                   que podem expor a aplicação web a riscos    # 
